@@ -1,0 +1,9 @@
+.history/
+*-bak
+*-bak2
+*.bck
+*.kicad_prl
+*.lck
+*.tmp
+_autosave-*
+*.kicad_pcb-bak
