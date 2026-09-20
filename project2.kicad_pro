@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "docs/images/pcb_layers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "gerbers/project2.glb",
       "vrml": ""
     },
     "page_layout_descr_file": ""

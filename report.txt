@@ -1,0 +1,10 @@
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-F_Cu.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-B_Cu.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-F_Paste.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-B_Paste.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-F_Silkscreen.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-B_Silkscreen.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-F_Mask.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-B_Mask.svg'.
+Plotted to 'E:\GIT\PCB\project1\project2\docs\images\pcb_layers\project2-Edge_Cuts.svg'.
+Info: Done.
