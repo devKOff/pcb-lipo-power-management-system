@@ -101,7 +101,7 @@ Full schematic of the charging, protection, and boost-conversion circuitry:
 <summary><strong>All-Layers Overlay</strong> (click to expand)</summary>
 <br>
 
-![All Layers Overlay](docs/images/pcb_layers/pcb_All_layers.svg)
+![All Layers Overlay](docs/images/pcb_layers/pcb_All_layers.pdf)
 
 </details>
 
